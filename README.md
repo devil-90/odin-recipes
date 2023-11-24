@@ -16,6 +16,7 @@ WHAT WILL BE IN THE RECIPE PAGE CONTENT:
     In the h1 tag there should be a image of the finished recipe.
     Under that image there should be some discription about that dish.
     Below that discription add another heading named "Ingredient" which contains unordered list of ingredients needed for the recipe.
+    Then write the steps to make the dish using ordered list
     Repeate the same for other html pages.....
 
 #..............................................................................................................
